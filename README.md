@@ -12,7 +12,8 @@ Uso del sensor ultrasonico HC-SR04 para medir distancia
 2) Descargar el codigo .ino y abrirlo en el IDE de Arduino.
 3) Revisar que el código este correcto y cargarlo al Arduino.
 4) Abrir el monitor serial del IDE de Arduino para ver las lecturas del sensor.
-   - **Nota:** NO desconectar el cable USB de la computadora ni del Arduino Uno.
+
+   Nota: **NO** desconectar el cable USB de la computadora ni del Arduino Uno.
 
 ## Layout
 ![Layout](img/layout.png)
