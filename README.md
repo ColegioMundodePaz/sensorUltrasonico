@@ -1,4 +1,4 @@
-# L293D con Arduino ![Arduino](https://img.shields.io/badge/arduino-Rob%C3%B3tica-blue?logo=arduino)
+# Sesor HC-SR04 ![Arduino](https://img.shields.io/badge/arduino-Rob%C3%B3tica-blue?logo=arduino)
 Uso del sensor ultrasonico HC-SR04 para medir distancia
 
 ## Materiales
